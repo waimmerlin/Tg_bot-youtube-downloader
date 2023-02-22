@@ -1,6 +1,5 @@
 import telebot
 import os
-import requests
 from pytube import YouTube
 bot_token = '6247720685:AAHlexDju9pAkjVsGMcG7x1-DoC5Bwouv8o'
 bot = telebot.TeleBot(bot_token)
